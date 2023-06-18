@@ -43,7 +43,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/AdroitMonella/advice-generator/
-- Live Site URL: adroitmonella.github.io/advice-generator/
+- Live Site URL: https://adroitmonella.github.io/advice-generator/
 
 ## My process
 
